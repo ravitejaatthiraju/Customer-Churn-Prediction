@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,OnlineSecurity,TechSupport,churn
+1,Male,35,24,65.0,1500.0,One year,Mailed check,Yes,No,No
+2,Female,42,2,80.0,160.0,Month-to-month,Electronic check,No,No,Yes
+3,Male,28,15,55.0,800.0,Month-to-month,Bank transfer,No,Yes,No
+4,Female,50,60,110.0,6600.0,Two year,Credit card,Yes,Yes,No
+5,Male,22,5,30.0,150.0,Month-to-month,Mailed check,No,No,Yes
+6,Female,38,30,70.0,2100.0,One year,Bank transfer,Yes,No,No
+7,Male,45,10,90.0,900.0,Month-to-month,Electronic check,No,Yes,Yes
+8,Female,60,70,120.0,8400.0,Two year,Credit card,Yes,Yes,No
+9,Male,31,8,40.0,320.0,Month-to-month,Mailed check,No,No,Yes
+10,Female,55,48,100.0,4800.0,One year,Bank transfer,Yes,No,No
+11,Male,27,3,60.0,180.0,Month-to-month,Electronic check,No,Yes,Yes
+12,Female,48,65,115.0,7475.0,Two year,Credit card,Yes,Yes,No
+13,Male,33,12,50.0,600.0,Month-to-month,Mailed check,No,No,Yes
+14,Female,52,55,95.0,5225.0,One year,Bank transfer,Yes,No,No
+15,Male,29,7,85.0,595.0,Month-to-month,Electronic check,No,Yes,Yes
+16,Female,62,72,125.0,9000.0,Two year,Credit card,Yes,Yes,No
+17,Male,36,9,35.0,315.0,Month-to-month,Mailed check,No,No,Yes
+18,Female,58,50,105.0,5250.0,One year,Bank transfer,Yes,No,No
+19,Male,25,6,75.0,450.0,Month-to-month,Electronic check,No,Yes,Yes
+20,Female,65,75,130.0,9750.0,Two year,Credit card,Yes,Yes,No
